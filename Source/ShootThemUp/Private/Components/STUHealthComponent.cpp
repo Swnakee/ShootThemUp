@@ -12,5 +12,7 @@ USTUHealthComponent::USTUHealthComponent()
 void USTUHealthComponent::BeginPlay()
 {
 	Super::BeginPlay();
+
+	Health = MaxHealth;
 }
 
