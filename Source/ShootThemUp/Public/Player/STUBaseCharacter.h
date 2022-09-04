@@ -58,4 +58,7 @@ class SHOOTTHEMUP_API ASTUBaseCharacter : public ACharacter
 
     void OnStartRunning();
     void OnStopRunning();
+
+    
+
 };
